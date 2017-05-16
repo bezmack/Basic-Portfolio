@@ -238,7 +238,8 @@ textarea {
     background-color: #f8f8f8;
     resize: none;
 }
-@media only screen and (max-width: 740px){
+
+@media (max-width: 740px){
     .responsive {
         width: 49.99999%;
         margin: 6px 0;
@@ -249,7 +250,7 @@ textarea {
 		}
 }
 
-@media only screen and (max-width: 450px){
+@media (max-width: 450px){
     .responsive, .side-social, .name, .about, .menu{
         width: 100%;
 	margin:0 auto;
