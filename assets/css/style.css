@@ -243,16 +243,15 @@ textarea {
         width: 49.99999%;
         margin: 6px 0;
     }
-
-		.container-nav, .inside-bod {
-			width: 100%;
-			margin: 0 auto;
+      .container-nav, .inside-bod {
+	  width: 100%;
+	  margin: 0 auto;
 		}
 }
 
 @media only screen and (max-width: 450px){
     .responsive, .side-social, .name, .about, .menu{
         width: 100%;
-				margin:0 auto;
+	margin:0 auto;
     }
 }
